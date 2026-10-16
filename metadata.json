@@ -1,0 +1,11 @@
+{
+  "name": "LingoPro - Language Learning SaaS",
+  "description": "Full-stack EdTech language learning SaaS with CEFR-aligned courses, 6-modality practice engine, quizzes, verifiable certificates, test-mode subscriptions, and an admin console.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
